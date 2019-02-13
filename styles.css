@@ -1,0 +1,28 @@
+body {
+	background-color: whitesmoke;
+}
+
+span {
+	margin-left: 40px;
+	margin-top: 20px;
+	font-size: 24px;
+}
+
+.clock {
+	width: 200px;
+	text-align: center;
+	margin: 10px;
+}
+.time {
+	font-size: 24px;
+}
+
+div > input {
+	font-size: 18px;
+}
+
+.clock2 {
+	width: 200px;
+	text-align: center;
+	margin: 10px;
+}
